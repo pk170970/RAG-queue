@@ -124,5 +124,4 @@ workers to process separate queued jobs.
 
 ## Architecture image
 
-**Image placeholder:** Add your architecture image here when ready. A suitable
-location would be `assets/rag-architecture.png`.
+![RAG architecture diagram](assets/rag-architecture.png)
